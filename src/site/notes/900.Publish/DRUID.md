@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"tags":["project/DRUID"],"dg-note-icon":"2","permalink":"/900.Publish/DRUID/","dgPassFrontmatter":true,"noteIcon":"2"}
+dg-publish: "true"
+tags:
+  - project/DRUID
+dg-note-icon: "2"
+platform: UE5,Blender
 ---
-
 1
 
 ---
