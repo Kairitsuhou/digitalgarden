@@ -1,10 +1,7 @@
 ---
-dg-publish: "true"
-tags:
-  - publish
-dg-note-icon: "2"
-cover:
+{"dg-publish":true,"tags":["publish"],"dg-note-icon":"2","cover":null,"permalink":"/900.Publish/Obsidianで第二の脳を構築する/","dgPassFrontmatter":true,"noteIcon":"2"}
 ---
+
 
 
 ---
