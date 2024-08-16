@@ -5,7 +5,8 @@
 [DRUID](https://www.gcores.com/games/126629)
 
 ---
-
+## GamePlay
+動物の強さと弱さを利用して、危険を逃れ、ゴールを目指す。
 
 ## Preview
 ![Publish 《DRUID》(4).webp](/img/user/700.Attachments/Publish%20%E3%80%8ADRUID%E3%80%8B(4).webp)
