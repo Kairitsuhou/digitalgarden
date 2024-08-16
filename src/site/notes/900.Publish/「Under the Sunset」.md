@@ -2,6 +2,9 @@
 {"dg-home":null,"dg-publish":true,"dg-note-icon":"2","cover":"![](https://github.com/Kairitsuhou/ImageHost/blob/main/Publish%20%E3%80%8AUnder%20the%20Sunset%E3%80%8B.png?raw=true)","description":null,"tags":["project/×Astraculum"],"platform":"Unity,Blender","permalink":"/900.Publish/「Under the Sunset」/","dgPassFrontmatter":true,"noteIcon":"2"}
 ---
 
+===
+## GamePlay
+
 ## Preview
 ![Publish Astraculum(1).jpg](/img/user/700.Attachments/Publish%20Astraculum(1).jpg)
 ![Publish Astraculum (4).png](/img/user/700.Attachments/Publish%20Astraculum%20(4).png)
