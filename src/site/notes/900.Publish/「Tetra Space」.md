@@ -1,5 +1,5 @@
 ---
-{"dg-home":null,"dg-publish":true,"dg-note-icon":"2","cover":null,"description":null,"tags":["project/TetraSpace","gamedesign"],"platform":"GameMakerStudio2,Aseprite","completion date":"","creation date":"","permalink":"/900.Publish/「Tetra Space」/","dgPassFrontmatter":true,"noteIcon":"2"}
+{"dg-home":null,"dg-publish":true,"dg-note-icon":"2","cover":null,"description":null,"tags":["project/TetraSpace"],"platform":"GameMakerStudio2,Aseprite","creation date":"2024-08-29","completion date":"","permalink":"/900.Publish/「Tetra Space」/","dgPassFrontmatter":true,"noteIcon":"2"}
 ---
 
 

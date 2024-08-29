@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["project/DRUID","gamedesign"],"description":"伝統的な卓上ゲーム「闘獣棋（とうじゅうき）」のルールに基づいて制作したゲーム。","dg-note-icon":"2","platform":"UnrealEngine5,Blender","cover":"![](https://github.com/Kairitsuhou/ImageHost/blob/main/Publish%20%E3%80%8ADRUID%E3%80%8B.png?raw=true)","completion date":"","creation date":"","permalink":"/900.Publish/「DRUID」/","dgPassFrontmatter":true,"noteIcon":"2"}
+{"dg-publish":true,"tags":["project/DRUID","gamedesign"],"description":"伝統的な卓上ゲーム「闘獣棋（とうじゅうき）」のルールに基づいて制作したゲーム。","dg-note-icon":"2","platform":"UnrealEngine5,Blender","cover":"![](https://github.com/Kairitsuhou/ImageHost/blob/main/Publish%20%E3%80%8ADRUID%E3%80%8B.png?raw=true)","creation date":"2024-08-29","completion date":"","permalink":"/900.Publish/「DRUID」/","dgPassFrontmatter":true,"noteIcon":"2"}
 ---
 
 [DRUID](https://www.gcores.com/games/126629)

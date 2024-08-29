@@ -1,5 +1,5 @@
 ---
-{"dg-home":null,"dg-publish":true,"dg-note-icon":"2","cover":"![](https://github.com/Kairitsuhou/ImageHost/blob/main/Publish%20%E3%80%8AUnder%20the%20Sunset%E3%80%8B.png?raw=true)","description":null,"tags":["project/×Astraculum","gamedesign"],"platform":"Unity,Blender,MagicaVoxel","completion date":"","creation date":"2024-08-28","permalink":"/900.Publish/「Under the Sunset」/","dgPassFrontmatter":true,"noteIcon":"2"}
+{"dg-home":null,"dg-publish":true,"dg-note-icon":"2","cover":"![](https://github.com/Kairitsuhou/ImageHost/blob/main/Publish%20%E3%80%8AUnder%20the%20Sunset%E3%80%8B.png?raw=true)","description":null,"tags":["project/×Astraculum","gamedesign"],"platform":"Unity,Blender,MagicaVoxel","creation date":"2024-08-28","completion date":"","permalink":"/900.Publish/「Under the Sunset」/","dgPassFrontmatter":true,"noteIcon":"2"}
 ---
 
 
