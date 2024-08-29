@@ -1,24 +1,16 @@
 ---
-dg-publish: "true"
-tags:
-  - project/DRUID
-  - gamedesign
-description: 伝統的な卓上ゲーム「闘獣棋（とうじゅうき）」のルールに基づいて制作したゲーム。
-dg-note-icon: "2"
-platform: UnrealEngine5,Blender
-cover: "![](https://github.com/Kairitsuhou/ImageHost/blob/main/Publish%20%E3%80%8ADRUID%E3%80%8B.png?raw=true)"
-completion date: ""
-creation date: ""
+{"dg-publish":true,"tags":["project/DRUID","gamedesign"],"description":"伝統的な卓上ゲーム「闘獣棋（とうじゅうき）」のルールに基づいて制作したゲーム。","dg-note-icon":"2","platform":"UnrealEngine5,Blender","cover":"![](https://github.com/Kairitsuhou/ImageHost/blob/main/Publish%20%E3%80%8ADRUID%E3%80%8B.png?raw=true)","completion date":"","creation date":"","permalink":"/900.Publish/「DRUID」/","dgPassFrontmatter":true,"noteIcon":"2"}
 ---
+
 [DRUID](https://www.gcores.com/games/126629)
 
 ---
-## 核心概念
+## ゲーム紹介
 動物の強さと弱さを利用して、危険を逃れ、ゴールを目指すゲーム。
 
 自然を敬うシャーマンになって、動物を模倣できるシャーマンの魔術を使うことで達成される。
 
-## 角色、视角和控制（3C）
+## キャラクター、カメラとコントロール（3C）
 ### 自然を敬って、動物を模倣できるシャーマン
 
 ### 以角色为中心的上帝视角
@@ -40,7 +32,7 @@ creation date: ""
 ![Publish 《DRUID》 (1).png](/img/user/700.Attachments/Publish%20%E3%80%8ADRUID%E3%80%8B%20(1).png)
 - Portal Shader
 
-## 展示部分
+## ゲームプレビュー画像
 ![Publish 《DRUID》(4).webp](/img/user/700.Attachments/Publish%20%E3%80%8ADRUID%E3%80%8B(4).webp)
 ![Publish 《DRUID》 (6).webp](/img/user/700.Attachments/Publish%20%E3%80%8ADRUID%E3%80%8B%20(6).webp)
 ![Publish 《DRUID》 (9).webp](/img/user/700.Attachments/Publish%20%E3%80%8ADRUID%E3%80%8B%20(9).webp)

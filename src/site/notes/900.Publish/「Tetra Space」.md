@@ -1,26 +1,21 @@
 ---
-dg-home: 
-dg-publish: "true"
-dg-note-icon: "2"
-cover: 
-description: 
-tags:
-  - project/TetraSpace
-  - gamedesign
-platform: GameMakerStudio2,Aseprite
-completion date: ""
-creation date: ""
+{"dg-home":null,"dg-publish":true,"dg-note-icon":"2","cover":null,"description":null,"tags":["project/TetraSpace","gamedesign"],"platform":"GameMakerStudio2,Aseprite","completion date":"","creation date":"","permalink":"/900.Publish/「Tetra Space」/","dgPassFrontmatter":true,"noteIcon":"2"}
 ---
 
+
 ---
-## 核心概念
+## ゲーム紹介
 
+## キャラクター、カメラとコントロール（3C）
+### 18×17ピクセルキャラクターのスプライトシート
+![Publish TS player_Idle_strip4.png](/img/user/700.Attachments/Publish%20TS%20player_Idle_strip4.png)
+- Idle
 
-## 角色、视角和控制（3C）
-### 00×00像素的角色
-- 待机动画精灵表
-- 移动动画精灵表
-- 跳跃动画精灵表
+![Publish TS player_walk_strip4.png](/img/user/700.Attachments/Publish%20TS%20player_walk_strip4.png)
+- Move
+
+![Publish TS player_jump_strip6.png](/img/user/700.Attachments/Publish%20TS%20player_jump_strip6.png)
+- Jump
 
 ### 横版锁定视角下多个离散的空间
 
@@ -38,4 +33,4 @@ creation date: ""
 - 场景资产的精灵表
 - 其他
 
-## 展示部分
+## ゲームプレビュー画像
