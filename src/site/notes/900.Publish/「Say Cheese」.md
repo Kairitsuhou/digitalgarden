@@ -20,20 +20,20 @@ It's New Year, give us a smile.
 
 ## 背景美術について
 中国の家庭に共通する4つの環境をテーマに描き、物語の順番に従って恐怖なシーンの雰囲気を深めている。
-![Publish 2024-01-22 living.jpg](/img/user/700.Attachments/Publish%202024-01-22%20living.jpg)
+![2024-09-09 005619628 「Say Cheese」.jpg](/img/user/700.Attachments/2024-09-09%20005619628%20%E3%80%8CSay%20Cheese%E3%80%8D.jpg)
 - リビングルームとバルコニー
 
-![Publish 2024-01-24 kitchen.jpg](/img/user/700.Attachments/Publish%202024-01-24%20kitchen.jpg)
+![2024-09-09 005619721 「Say Cheese」.jpg](/img/user/700.Attachments/2024-09-09%20005619721%20%E3%80%8CSay%20Cheese%E3%80%8D.jpg)
 - バスルーム
 
-![Publish 2024-01-25 bedroom.jpg](/img/user/700.Attachments/Publish%202024-01-25%20bedroom.jpg)
+![2024-09-09 005619858 「Say Cheese」.jpg](/img/user/700.Attachments/2024-09-09%20005619858%20%E3%80%8CSay%20Cheese%E3%80%8D.jpg)
 - ベッドルーム
 
-![Publish 2024-01-26 hall_2.jpg](/img/user/700.Attachments/Publish%202024-01-26%20hall_2.jpg)
+![2024-09-09 005620067 「Say Cheese」.jpg](/img/user/700.Attachments/2024-09-09%20005620067%20%E3%80%8CSay%20Cheese%E3%80%8D.jpg)
 - 祖霊殿
 
 ## ゲームプレビュー画像
-![Publish　《你怎么不笑啊》 (1).png](/img/user/700.Attachments/Publish%E3%80%80%E3%80%8A%E4%BD%A0%E6%80%8E%E4%B9%88%E4%B8%8D%E7%AC%91%E5%95%8A%E3%80%8B%20(1).png)
-![Publish　《你怎么不笑啊》 (2).png](/img/user/700.Attachments/Publish%E3%80%80%E3%80%8A%E4%BD%A0%E6%80%8E%E4%B9%88%E4%B8%8D%E7%AC%91%E5%95%8A%E3%80%8B%20(2).png)
-![Publish　《你怎么不笑啊》 (3).png](/img/user/700.Attachments/Publish%E3%80%80%E3%80%8A%E4%BD%A0%E6%80%8E%E4%B9%88%E4%B8%8D%E7%AC%91%E5%95%8A%E3%80%8B%20(3).png)
-![Publish　《你怎么不笑啊》 (4).png](/img/user/700.Attachments/Publish%E3%80%80%E3%80%8A%E4%BD%A0%E6%80%8E%E4%B9%88%E4%B8%8D%E7%AC%91%E5%95%8A%E3%80%8B%20(4).png)
+![2024-09-09 005620220 「Say Cheese」.png](/img/user/700.Attachments/2024-09-09%20005620220%20%E3%80%8CSay%20Cheese%E3%80%8D.png)
+![2024-09-09 005620372 「Say Cheese」.png](/img/user/700.Attachments/2024-09-09%20005620372%20%E3%80%8CSay%20Cheese%E3%80%8D.png)
+![2024-09-09 005620486 「Say Cheese」.png](/img/user/700.Attachments/2024-09-09%20005620486%20%E3%80%8CSay%20Cheese%E3%80%8D.png)
+![2024-09-09 005620639 「Say Cheese」.png](/img/user/700.Attachments/2024-09-09%20005620639%20%E3%80%8CSay%20Cheese%E3%80%8D.png)

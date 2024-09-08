@@ -9,13 +9,13 @@
 
 ## キャラクター、カメラとコントロール（3C）
 ### 18×17ピクセルキャラクターのスプライトシート
-![Publish TS player_Idle_strip4.png](/img/user/700.Attachments/Publish%20TS%20player_Idle_strip4.png)
+![2024-09-09 005625355 「Tetra Space」.png](/img/user/700.Attachments/2024-09-09%20005625355%20%E3%80%8CTetra%20Space%E3%80%8D.png)
 - Idle
 
-![Publish TS player_walk_strip4.png](/img/user/700.Attachments/Publish%20TS%20player_walk_strip4.png)
+![2024-09-09 005625453 「Tetra Space」.png](/img/user/700.Attachments/2024-09-09%20005625453%20%E3%80%8CTetra%20Space%E3%80%8D.png)
 - Move
 
-![Publish TS player_jump_strip6.png](/img/user/700.Attachments/Publish%20TS%20player_jump_strip6.png)
+![2024-09-09 005625607 「Tetra Space」.png](/img/user/700.Attachments/2024-09-09%20005625607%20%E3%80%8CTetra%20Space%E3%80%8D.png)
 - Jump
 
 ### ロックされたランドスケープビューの中の複数の空間
@@ -25,12 +25,12 @@
 - ドラッグ（マウスの左ボタン）または回り（マウスの右ボタン）を使用して、キャラクターを目的に到着します。
 
 ## 美術デザイン（一部）
-![Publish　TSmap.jpg](/img/user/700.Attachments/Publish%E3%80%80TSmap.jpg)
+![2024-09-09 005625698 「Tetra Space」.jpg](/img/user/700.Attachments/2024-09-09%20005625698%20%E3%80%8CTetra%20Space%E3%80%8D.jpg)
 
 ## ゲームプレビュー画像
-![Publish TS view(1).png](/img/user/700.Attachments/Publish%20TS%20view(1).png)
-![Publish TS view(2).png](/img/user/700.Attachments/Publish%20TS%20view(2).png)
-![Publish TS view(3).png](/img/user/700.Attachments/Publish%20TS%20view(3).png)
+![2024-09-09 005625831 「Tetra Space」.png](/img/user/700.Attachments/2024-09-09%20005625831%20%E3%80%8CTetra%20Space%E3%80%8D.png)
+![2024-09-09 005625960 「Tetra Space」.png](/img/user/700.Attachments/2024-09-09%20005625960%20%E3%80%8CTetra%20Space%E3%80%8D.png)
+![2024-09-09 005626088 「Tetra Space」.png](/img/user/700.Attachments/2024-09-09%20005626088%20%E3%80%8CTetra%20Space%E3%80%8D.png)
 
 ## プログラミングデザイン（一部）
 ### キャラクター・ステートマシン
