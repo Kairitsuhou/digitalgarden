@@ -1,5 +1,5 @@
 ---
-{"dg-home":null,"dg-publish":true,"dg-note-icon":"2","cover":"![](https://github.com/Kairitsuhou/ImageHost/blob/main/Publish%20%E3%80%8ATetra%20Space%E3%80%8B.png?raw=true)","description":"プレイヤーはキャラクターとスペースを操作できる。スペースを組み合わせることで、キャラクターが目的を果たせるような組合を構築する。","tags":["project/TetraSpace"],"platform":"GameMakerStudio2,Aseprite","creation date":"2024-08-29","completion date":"","permalink":"/900.Publish/「Tetra Space」/","dgPassFrontmatter":true,"noteIcon":"2"}
+{"dg-home":null,"dg-publish":true,"dg-note-icon":"2","cover":"![](https://github.com/Kairitsuhou/ImageHost/blob/main/Publish%20%E3%80%8ATetra%20Space%E3%80%8B.png?raw=true)","description":"プレイヤーはキャラクターとスペースを操作できる。スペースを組み合わせることで、キャラクターが目的を果たせるような組合を構築する。","tags":["project/Tetra"],"platform":"GameMakerStudio2,Aseprite","creation date":"2024-08-29","completion date":"","permalink":"/900.Publish/「Tetra Space」/","dgPassFrontmatter":true,"noteIcon":"2"}
 ---
 
 
