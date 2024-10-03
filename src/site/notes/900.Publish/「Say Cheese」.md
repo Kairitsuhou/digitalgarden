@@ -20,20 +20,20 @@ It's New Year, give us a smile.
 
 ## 背景美術について
 中国の家庭に共通する4つの環境をテーマに描き、物語の順番に従って恐怖なシーンの雰囲気を深めている。
-![2024-09-09 005619628 「Say Cheese」.jpg](/img/user/700.Attachments/2024-09-09%20005619628%20%E3%80%8CSay%20Cheese%E3%80%8D.jpg)
+![2024-10-01 011013427 「Say Cheese」 -3.jpg](/img/user/700.Attachment/2024-10-01%20011013427%20%E3%80%8CSay%20Cheese%E3%80%8D%20-3.jpg)
 - リビングルームとバルコニー
 
-![2024-09-09 005619721 「Say Cheese」.jpg](/img/user/700.Attachments/2024-09-09%20005619721%20%E3%80%8CSay%20Cheese%E3%80%8D.jpg)
+![2024-10-01 011013507 「Say Cheese」 -3.jpg](/img/user/700.Attachment/2024-10-01%20011013507%20%E3%80%8CSay%20Cheese%E3%80%8D%20-3.jpg)
 - バスルーム
 
-![2024-09-09 005619858 「Say Cheese」.jpg](/img/user/700.Attachments/2024-09-09%20005619858%20%E3%80%8CSay%20Cheese%E3%80%8D.jpg)
+![2024-10-01 011013640 「Say Cheese」 -3.jpg](/img/user/700.Attachment/2024-10-01%20011013640%20%E3%80%8CSay%20Cheese%E3%80%8D%20-3.jpg)
 - ベッドルーム
 
-![2024-09-09 005620067 「Say Cheese」.jpg](/img/user/700.Attachments/2024-09-09%20005620067%20%E3%80%8CSay%20Cheese%E3%80%8D.jpg)
+![2024-10-01 011013777 「Say Cheese」 -3.jpg](/img/user/700.Attachment/2024-10-01%20011013777%20%E3%80%8CSay%20Cheese%E3%80%8D%20-3.jpg)
 - 祖霊殿
 
 ## ゲームプレビュー画像
-![2024-09-09 005620220 「Say Cheese」.png](/img/user/700.Attachments/2024-09-09%20005620220%20%E3%80%8CSay%20Cheese%E3%80%8D.png)
-![2024-09-09 005620372 「Say Cheese」.png](/img/user/700.Attachments/2024-09-09%20005620372%20%E3%80%8CSay%20Cheese%E3%80%8D.png)
-![2024-09-09 005620486 「Say Cheese」.png](/img/user/700.Attachments/2024-09-09%20005620486%20%E3%80%8CSay%20Cheese%E3%80%8D.png)
-![2024-09-09 005620639 「Say Cheese」.png](/img/user/700.Attachments/2024-09-09%20005620639%20%E3%80%8CSay%20Cheese%E3%80%8D.png)
+![2024-10-01 010736223 「Say Cheese」 -2.png](/img/user/700.Attachment/2024-10-01%20010736223%20%E3%80%8CSay%20Cheese%E3%80%8D%20-2.png)
+![2024-10-01 010736299 「Say Cheese」 -2.png](/img/user/700.Attachment/2024-10-01%20010736299%20%E3%80%8CSay%20Cheese%E3%80%8D%20-2.png)
+![2024-10-01 010736376 「Say Cheese」 -2.png](/img/user/700.Attachment/2024-10-01%20010736376%20%E3%80%8CSay%20Cheese%E3%80%8D%20-2.png)
+![2024-10-01 010709800 「Say Cheese」 -1.png](/img/user/700.Attachment/2024-10-01%20010709800%20%E3%80%8CSay%20Cheese%E3%80%8D%20-1.png)

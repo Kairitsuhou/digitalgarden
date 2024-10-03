@@ -1,5 +1,5 @@
 ---
-{"dg-home":null,"dg-publish":true,"dg-note-icon":"2","cover":"![](https://github.com/Kairitsuhou/ImageHost/blob/main/Publish%20%E3%80%8ATetra%20Space%E3%80%8B.png?raw=true)","description":"プレイヤーはキャラクターとスペースを操作できる。スペースを組み合わせることで、キャラクターが目的を果たせるような組合を構築する。","tags":["project/Tetra"],"platform":"GameMakerStudio2,Aseprite","creation date":"2024-08-29","completion date":"","permalink":"/900.Publish/「Tetra Space」/","dgPassFrontmatter":true,"noteIcon":"2"}
+{"dg-home":null,"dg-publish":true,"dg-note-icon":"2","cover":"![](https://github.com/Kairitsuhou/ImageHost/blob/main/Publish%20%E3%80%8ATetra%E3%80%8B.png?raw=true)","description":"プレイヤーはキャラクターとスペースを操作できる。スペースを組み合わせることで、キャラクターが目的を果たせるような組合を構築する。","tags":["project/Tetra"],"platform":"GameMakerStudio2,Aseprite","creation date":"2024-08-29","completion date":"","permalink":"/900.Publish/「Tetra Space」/","dgPassFrontmatter":true,"noteIcon":"2"}
 ---
 
 
@@ -7,15 +7,17 @@
 ## ゲーム紹介
 プレイヤーはキャラクターとスペースを操作できる。スペースを組み合わせることで、キャラクターが目的を果たせるような組合を構築する。
 
+![[2024-10-03 tetra.mp4]]
+
 ## キャラクター、カメラとコントロール（3C）
 ### 18×17ピクセルキャラクターのスプライトシート
-![2024-09-09 005625355 「Tetra Space」.png](/img/user/700.Attachments/2024-09-09%20005625355%20%E3%80%8CTetra%20Space%E3%80%8D.png)
+![2024-10-01 013219339 「Tetra Space」 -3.png](/img/user/700.Attachment/2024-10-01%20013219339%20%E3%80%8CTetra%20Space%E3%80%8D%20-3.png)
 - Idle
 
-![2024-09-09 005625453 「Tetra Space」.png](/img/user/700.Attachments/2024-09-09%20005625453%20%E3%80%8CTetra%20Space%E3%80%8D.png)
+![2024-10-01 013219449 「Tetra Space」 -3.png](/img/user/700.Attachment/2024-10-01%20013219449%20%E3%80%8CTetra%20Space%E3%80%8D%20-3.png)
 - Move
 
-![2024-09-09 005625607 「Tetra Space」.png](/img/user/700.Attachments/2024-09-09%20005625607%20%E3%80%8CTetra%20Space%E3%80%8D.png)
+![2024-10-01 013219561 「Tetra Space」 -3.png](/img/user/700.Attachment/2024-10-01%20013219561%20%E3%80%8CTetra%20Space%E3%80%8D%20-3.png)
 - Jump
 
 ### ロックされたランドスケープビューの中の複数の空間
@@ -25,12 +27,12 @@
 - ドラッグ（マウスの左ボタン）または回り（マウスの右ボタン）を使用して、キャラクターを目的に到着します。
 
 ## 美術デザイン（一部）
-![2024-09-09 005625698 「Tetra Space」.jpg](/img/user/700.Attachments/2024-09-09%20005625698%20%E3%80%8CTetra%20Space%E3%80%8D.jpg)
+![2024-10-01 013219249 「Tetra Space」 -3.jpg](/img/user/700.Attachment/2024-10-01%20013219249%20%E3%80%8CTetra%20Space%E3%80%8D%20-3.jpg)
 
 ## ゲームプレビュー画像
-![2024-09-09 005625831 「Tetra Space」.png](/img/user/700.Attachments/2024-09-09%20005625831%20%E3%80%8CTetra%20Space%E3%80%8D.png)
-![2024-09-09 005625960 「Tetra Space」.png](/img/user/700.Attachments/2024-09-09%20005625960%20%E3%80%8CTetra%20Space%E3%80%8D.png)
-![2024-09-09 005626088 「Tetra Space」.png](/img/user/700.Attachments/2024-09-09%20005626088%20%E3%80%8CTetra%20Space%E3%80%8D.png)
+![2024-10-01 013219703 「Tetra Space」 -3.png](/img/user/700.Attachment/2024-10-01%20013219703%20%E3%80%8CTetra%20Space%E3%80%8D%20-3.png)
+![2024-10-01 013219798 「Tetra Space」 -3.png](/img/user/700.Attachment/2024-10-01%20013219798%20%E3%80%8CTetra%20Space%E3%80%8D%20-3.png)
+![2024-10-01 013219895 「Tetra Space」 -3.png](/img/user/700.Attachment/2024-10-01%20013219895%20%E3%80%8CTetra%20Space%E3%80%8D%20-3.png)
 
 ## プログラミングデザイン（一部）
 ### キャラクター・ステートマシン
