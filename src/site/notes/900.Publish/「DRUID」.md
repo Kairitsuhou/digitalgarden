@@ -5,11 +5,12 @@
 [DRUID](https://www.gcores.com/games/126629)
 
 ---
+![[200.Area/290.Obsidian/2024-10-02 Components/20241027020309 DRUID.components]]
+
 ## ゲーム紹介
 伝統的な卓上ゲーム「闘獣棋（とうじゅうき）」のルールに基づいて制作した。動物の強さと弱さを利用し、危険を逃れ、ゴールを目指すゲーム。
 
 自然を敬うシャーマンになって、動物を模倣できるシャーマンの魔術を使うことで達成される。
-
 ## キャラクター、カメラとコントロール（3C）
 ### 自然を敬って、動物を模倣できるシャーマン
 
@@ -17,6 +18,14 @@
 
 ### 六角形のグリッド上を行動する
 
+## ゲームプレビュー画像
+![2024-10-01 010217145 「DRUID」-2.webp](/img/user/700.Attachment/2024-10-01%20010217145%20%E3%80%8CDRUID%E3%80%8D-2.webp)
+![2024-10-11 175407770 「DRUID」-1（√）.webp](/img/user/700.Attachment/2024-10-11%20175407770%20%E3%80%8CDRUID%E3%80%8D-1%EF%BC%88%E2%88%9A%EF%BC%89.webp)
+![Pasted image 20241027021104.png](/img/user/700.Attachment/Pasted%20image%2020241027021104.png)
+![2024-10-14 155420822 「DRUID」-2.png](/img/user/700.Attachment/2024-10-14%20155420822%20%E3%80%8CDRUID%E3%80%8D-2.png)
+![2024-10-01 010217200 「DRUID」-2.webp](/img/user/700.Attachment/2024-10-01%20010217200%20%E3%80%8CDRUID%E3%80%8D-2.webp)
+![2024-10-01 010217283 「DRUID」-2.webp](/img/user/700.Attachment/2024-10-01%20010217283%20%E3%80%8CDRUID%E3%80%8D-2.webp)
+![2024-10-01 010217453 「DRUID」-2.webp](/img/user/700.Attachment/2024-10-01%20010217453%20%E3%80%8CDRUID%E3%80%8D-2.webp)
 ## 美术设计
 様式化されたシェーダーの作成に注力。
 ![2024-10-01 010251829 「DRUID」-3.png](/img/user/700.Attachment/2024-10-01%20010251829%20%E3%80%8CDRUID%E3%80%8D-3.png)
@@ -27,11 +36,3 @@
 
 ![2024-10-01 010252069 「DRUID」-3.png](/img/user/700.Attachment/2024-10-01%20010252069%20%E3%80%8CDRUID%E3%80%8D-3.png)
 - Portal Shader
-
-## ゲームプレビュー画像
-![2024-10-01 010217145 「DRUID」-2.webp](/img/user/700.Attachment/2024-10-01%20010217145%20%E3%80%8CDRUID%E3%80%8D-2.webp)
-![2024-10-01 014706308 制作実績目録.webp](/img/user/700.Attachment/2024-10-01%20014706308%20%E5%88%B6%E4%BD%9C%E5%AE%9F%E7%B8%BE%E7%9B%AE%E9%8C%B2.webp)
-![2024-10-01 010217200 「DRUID」-2.webp](/img/user/700.Attachment/2024-10-01%20010217200%20%E3%80%8CDRUID%E3%80%8D-2.webp)
-![2024-10-01 010217283 「DRUID」-2.webp](/img/user/700.Attachment/2024-10-01%20010217283%20%E3%80%8CDRUID%E3%80%8D-2.webp)
-![2024-10-01 010217357 「DRUID」-2.webp](/img/user/700.Attachment/2024-10-01%20010217357%20%E3%80%8CDRUID%E3%80%8D-2.webp)
-![2024-10-01 010217453 「DRUID」-2.webp](/img/user/700.Attachment/2024-10-01%20010217453%20%E3%80%8CDRUID%E3%80%8D-2.webp)
