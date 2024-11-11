@@ -25,15 +25,15 @@
 ![2024-10-27 192447982 「Tetra Space」 -2（√）.png](/img/user/700.Attachment/2024-10-27%20192447982%20%E3%80%8CTetra%20Space%E3%80%8D%20-2%EF%BC%88%E2%88%9A%EF%BC%89.png)
 
 ## ゲームプレビュー画像
-![2024-10-27 192447980 「Tetra Space」 -3.png](/img/user/700.Attachment/2024-10-27%20192447980%20%E3%80%8CTetra%20Space%E3%80%8D%20-3.png)
-![2024-10-27 192449236 「Tetra Space」 -3.png](/img/user/700.Attachment/2024-10-27%20192449236%20%E3%80%8CTetra%20Space%E3%80%8D%20-3.png)
-![2024-10-27 192446210 「Tetra Space」 -3.png](/img/user/700.Attachment/2024-10-27%20192446210%20%E3%80%8CTetra%20Space%E3%80%8D%20-3.png)
-![2024-10-27 192456340 「Tetra Space」 -3.png](/img/user/700.Attachment/2024-10-27%20192456340%20%E3%80%8CTetra%20Space%E3%80%8D%20-3.png)
-![2024-10-27 023439954 「Tetra」.png](/img/user/700.Attachment/2024-10-27%20023439954%20%E3%80%8CTetra%E3%80%8D.png)
-![2024-10-27 023440135 「Tetra」.png](/img/user/700.Attachment/2024-10-27%20023440135%20%E3%80%8CTetra%E3%80%8D.png)
-![2024-10-27 023440327 「Tetra」.png](/img/user/700.Attachment/2024-10-27%20023440327%20%E3%80%8CTetra%E3%80%8D.png)
-![2024-10-27 192447980 「Tetra Space」 -1（√）.png](/img/user/700.Attachment/2024-10-27%20192447980%20%E3%80%8CTetra%20Space%E3%80%8D%20-1%EF%BC%88%E2%88%9A%EF%BC%89.png)
+
+| ![2024-10-27 192447980 「Tetra Space」 -3.png](/img/user/700.Attachment/2024-10-27%20192447980%20%E3%80%8CTetra%20Space%E3%80%8D%20-3.png) | ![2024-10-27 192449236 「Tetra Space」 -3.png](/img/user/700.Attachment/2024-10-27%20192449236%20%E3%80%8CTetra%20Space%E3%80%8D%20-3.png)    |
+| ---------------------------------------------- | ------------------------------------------------- |
+| ![2024-10-27 192446210 「Tetra Space」 -3.png](/img/user/700.Attachment/2024-10-27%20192446210%20%E3%80%8CTetra%20Space%E3%80%8D%20-3.png) | ![2024-10-27 192456340 「Tetra Space」 -3.png](/img/user/700.Attachment/2024-10-27%20192456340%20%E3%80%8CTetra%20Space%E3%80%8D%20-3.png)    |
+| ![2024-10-27 023439954 「Tetra」.png](/img/user/700.Attachment/2024-10-27%20023439954%20%E3%80%8CTetra%E3%80%8D.png)          | ![2024-10-27 023440135 「Tetra」.png](/img/user/700.Attachment/2024-10-27%20023440135%20%E3%80%8CTetra%E3%80%8D.png)             |
+| ![2024-10-27 023440327 「Tetra」.png](/img/user/700.Attachment/2024-10-27%20023440327%20%E3%80%8CTetra%E3%80%8D.png)          | ![2024-10-27 192447980 「Tetra Space」 -1（√）.png](/img/user/700.Attachment/2024-10-27%20192447980%20%E3%80%8CTetra%20Space%E3%80%8D%20-1%EF%BC%88%E2%88%9A%EF%BC%89.png) |
+
 ## プログラミングデザイン（一部）
+
 ![2024-10-27 192448040 「Tetra Space」 -4（√）.png](/img/user/700.Attachment/2024-10-27%20192448040%20%E3%80%8CTetra%20Space%E3%80%8D%20-4%EF%BC%88%E2%88%9A%EF%BC%89.png)
 ![2024-10-27 192447989 「Tetra Space」 -5（√）.png](/img/user/700.Attachment/2024-10-27%20192447989%20%E3%80%8CTetra%20Space%E3%80%8D%20-5%EF%BC%88%E2%88%9A%EF%BC%89.png)
 ### キャラクター・ステートマシン
