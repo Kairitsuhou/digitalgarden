@@ -21,10 +21,8 @@ body {
   --graph-main: var(--text-accent);
   --graph-muted: var(--text-muted);
 
-  body {
-    --file-margins: var(--size-4-8) 100%; /*栏宽*/
-  }
-  
+  --file-margins: var(--size-4-8) 100%; /*栏宽*/
+
 }
 
 body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon]::before,
