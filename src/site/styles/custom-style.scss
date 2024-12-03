@@ -21,6 +21,10 @@ body {
   --graph-main: var(--text-accent);
   --graph-muted: var(--text-muted);
 
+  body {
+    --file-margins: var(--size-4-8) 100%; /*栏宽*/
+  }
+  
 }
 
 body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon]::before,
@@ -70,8 +74,4 @@ body.filetree-note-icon .filename[data-note-icon="5"]::before,
 body.links-note-icon .internal-link[data-note-icon="5"]::before,
 body.backlinks-note-icon .backlink[data-note-icon="5"]::before {
   background-image: var(--note-icon-5);
-}
-
-body {
-  --file-margins: var(--size-4-8) 100%; /*栏宽*/
 }
