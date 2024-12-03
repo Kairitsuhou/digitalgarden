@@ -5,7 +5,7 @@ body {
  ***/
   //  background-color: white;
   //  .content {
-  //   font-size: 14px;
+  --font-size: 20px;
   //  }
   //  h1 {
   //   color: black;
@@ -21,7 +21,7 @@ body {
   --graph-main: var(--text-accent);
   --graph-muted: var(--text-muted);
 
-  --file-margins: 40px; /*栏宽*/
+  --file-margins: 60px; /*栏宽*/
 
 }
 
