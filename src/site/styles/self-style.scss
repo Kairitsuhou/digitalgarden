@@ -1,0 +1,40 @@
+/* custom-styles.scss */
+
+:root {
+    --graph-main: #3498db;
+    --graph-muted: #95a5a6;
+    --sidebar-width: 300px; /* 修改此处的值来调整栏宽 */
+}
+
+/* 应用自定义颜色 */
+.graph {
+    color: var(--graph-main);
+    background-color: var(--graph-muted);
+}
+
+/* 自定义文件夹栏宽度 */
+.workspace-split {
+    width: var(--sidebar-width) !important;
+}
+
+.sidebar {
+    width: var(--sidebar-width) !important;
+}
+
+/* 其他自定义样式 */
+.header {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.button {
+    background-color: #e74c3c;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+
+    &:hover {
+        background-color: #c0392b;
+    }
+}

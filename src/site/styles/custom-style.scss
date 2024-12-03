@@ -5,7 +5,7 @@ body {
  ***/
   //  background-color: white;
   //  .content {
-  --font-size: 20px;
+  //  font-size: 20px;
   //  }
   //  h1 {
   //   color: black;
@@ -20,8 +20,6 @@ body {
   --note-icon-fallback: url(/img/stone.svg); // 默认的图标
   --graph-main: var(--text-accent);
   --graph-muted: var(--text-muted);
-
-  --file-margins: 60px; /*栏宽*/
 
 }
 
