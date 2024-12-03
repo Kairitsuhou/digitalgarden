@@ -1,0 +1,3 @@
+body {
+  --file-margins: var(--size-4-8) 10%; /*栏宽*/
+}

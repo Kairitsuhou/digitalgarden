@@ -1,0 +1,4 @@
+body .nav-file-title-content,
+body .nav-folder-title-content {
+  white-space: normal !important;
+}

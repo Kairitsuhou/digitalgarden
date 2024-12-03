@@ -1,0 +1,10 @@
+/*阅读模式渐变色分割线*/
+.markdown-preview-view hr {
+	border-top: 1px solid;
+	border-image: linear-gradient(to right, #cd8387, #b77a82,#a0707d, #8a6778, #735d73, #5d546d, #464a68, #304163, #19375e) 7;
+}
+/*实时模式渐变色分割线*/
+.markdown-source-view div.hr.cm-line hr {
+	border-top: 1px solid;
+	border-image: linear-gradient(to right, #cd8387, #b77a82,#a0707d, #8a6778, #735d73, #5d546d, #464a68, #304163, #19375e) 7;
+}
