@@ -71,3 +71,7 @@ body.links-note-icon .internal-link[data-note-icon="5"]::before,
 body.backlinks-note-icon .backlink[data-note-icon="5"]::before {
   background-image: var(--note-icon-5);
 }
+
+body {
+  --file-margins: var(--size-4-8) 10%; /*栏宽*/
+}
