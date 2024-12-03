@@ -20,7 +20,8 @@ body {
   --note-icon-fallback: url(/img/stone.svg); // 默认的图标
   --graph-main: var(--text-accent);
   --graph-muted: var(--text-muted);
-
+  
+  --file-margins: 500px !important;
 }
 
 body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon]::before,
