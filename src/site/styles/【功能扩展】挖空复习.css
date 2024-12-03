@@ -1,7 +1,0 @@
-:is(.markdown-preview-view, .markdown-rendered) mark {
-  color: transparent !important;
-}
-
-:is(.markdown-preview-view, .markdown-rendered) mark:hover {
-  color: var(--text-normal) !important;
-}
